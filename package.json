@@ -1,5 +1,5 @@
 {
-  "name": "redux-storage-decorator-debounce",
+  "name": "@beatroot/redux-storage-decorator-debounce",
   "version": "1.0.1",
   "description": "Delay and merge save opertations of redux-storage",
   "main": "build/index.js",
